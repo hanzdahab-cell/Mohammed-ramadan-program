@@ -1,0 +1,6 @@
+{
+  "name": "GymCraft - صانع ومصمم جداول التمارين الذكي",
+  "description": "قوالب ونماذج تصميم ذكية جاهزة لتنسيق جداول تمارين الجيم وتصديرها بضغطة زر دون عناء التنسيق اليدوي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
